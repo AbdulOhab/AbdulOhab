@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abdul Ohab
 
-I'm a Computer Science graduate and IT professional with a passion for full-stack development, system administration, and problem-solving. Currently working as an IT Support Engineer & Management at Byapon Youth Science Magazine.
+I'm a Computer Science graduate and IT professional with a passion for full-stack development, system administration, and problem-solving.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
@@ -13,8 +13,6 @@ I'm a Computer Science graduate and IT professional with a passion for full-stac
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
-
-## 🛠️ Development & Tools
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -27,16 +25,23 @@ I'm a Computer Science graduate and IT professional with a passion for full-stac
 ![](https://img.shields.io/badge/SEO-Tools-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/md-abdul-ohab)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/md-abdul-ohab)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulohb059@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/AbdulOhab)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/yourusername)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/yourusername)
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&theme=radical)
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=30,5B3E31,2E2C31&text_color=FFFFFF"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&hide_border=true&title_color=F85D7F&bg_color=30,5B3E31,2E2C31&text_color=FFFFFF"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulOhab&theme=radical&hide_border=true&background=30,5B3E31,2E2C31&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+</div>
 
 ## 🏆 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
