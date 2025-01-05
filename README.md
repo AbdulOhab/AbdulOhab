@@ -28,26 +28,19 @@ I'm a Computer Science graduate and IT professional with a passion for full-stac
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/md-abdul-ohab)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulohb059@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/AbdulOhab)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/ab_wahab98)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/abdul.ohab.059)
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&theme=radical)
-
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=F85D7F&icon_color=F8D866&bg_color=30,5B3E31,2E2C31&text_color=FFFFFF"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&hide_border=true&title_color=F85D7F&bg_color=30,5B3E31,2E2C31&text_color=FFFFFF"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulOhab&theme=radical&hide_border=true&background=30,5B3E31,2E2C31&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 </div>
 
 ## 🏆 Competitive Programming
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yourusername)
-[![AtCoder](https://img.shields.io/badge/-AtCoder-222222?style=flat&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/yourusername)
-[![UVa](https://img.shields.io/badge/-UVa-blue?style=flat&logo=CodeForces&logoColor=white)](https://uhunt.onlinejudge.org/id/yourusername)
+[![StopStalk](https://img.shields.io/badge/-StopStalk-536DFE?style=flat&logo=line-chart&logoColor=white)](https://www.stopstalk.com/user/profile/Ab_Ohab)
 
 ---
 ⭐️ From [AbdulOhab](https://github.com/AbdulOhab)
