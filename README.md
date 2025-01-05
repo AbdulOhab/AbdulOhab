@@ -42,5 +42,4 @@ I'm a Computer Science graduate and IT professional with a passion for full-stac
 ## 🏆 Competitive Programming
 [![StopStalk](https://img.shields.io/badge/-StopStalk-536DFE?style=flat&logo=line-chart&logoColor=white)](https://www.stopstalk.com/user/profile/Ab_Ohab)
 
----
 ⭐️ From [AbdulOhab](https://github.com/AbdulOhab)
