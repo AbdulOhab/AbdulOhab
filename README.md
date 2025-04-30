@@ -2,9 +2,7 @@
 
 * 💻 Software Engineer
 * 🔧 Full-stack dev
-* 🧠 Competitive coder
 * 📚 CSE graduate
-
 
 <details>	
 <summary><b>My skills</b></summary>
