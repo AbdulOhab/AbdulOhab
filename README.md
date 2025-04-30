@@ -1,8 +1,13 @@
-# Hi there! 👋 I'm Abdul Ohab
+# Hi! 👋 I'm Md Abdul Ohab
 
-I'm a Computer Science graduate and IT professional with a passion for full-stack development, system administration, and problem-solving.
+* 💻 Software Engineer
+* 🔧 Full-stack dev
+* 🧠 Competitive coder
+* 📚 CSE graduate
 
-## 🔧 Technologies & Tools
+
+<details>	
+<summary><b>My skills</b></summary>
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
@@ -23,6 +28,10 @@ I'm a Computer Science graduate and IT professional with a passion for full-stac
 ![](https://img.shields.io/badge/VM-VirtualMachine-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SEO-Tools-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
+</details>
+
+## 🔧 Technologies & Tools
+
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/md-abdul-ohab)
