@@ -1,9 +1,4 @@
 # Hi! 👋 I'm Md Abdul Ohab
-
-* 💻 Software Engineer
-* 🔧 Full-stack dev
-* 📚 CSE graduate
-
 <!-- Skills Section -->
 <details>
 <summary><strong>My skills</strong></summary>
