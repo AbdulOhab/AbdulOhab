@@ -39,11 +39,4 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/abdul.ohab.059)
 
 </details>
-
-<details>	
-<summary><b>Github Stats</b></summary>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&theme=radical&count_private=true)
-
 </details>
