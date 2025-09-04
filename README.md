@@ -10,8 +10,6 @@
   
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 ```javascript
@@ -30,129 +28,6 @@ const abdul = {
   funFact: "I debug with console.log() and I'm not ashamed! 😄",
 };
 ```
-
-## 🛠️ My Tech Arsenal
-
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" />
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-      <br><strong>C++</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
-      <br><strong>PHP</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
-      <br><strong>Laravel</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
-      <br><strong>Flask</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express.js" />
-      <br><strong>Express</strong>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br><strong>MongoDB</strong>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="TailwindCSS" />
-      <br><strong>Tailwind CSS</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br><strong>Bootstrap</strong>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpanel/cpanel-original.svg" width="65" height="65" alt="cPanel" />
-      <br><strong>cPanel</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-      <br><strong>Linux</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=apache" width="65" height="65" alt="Apache" />
-      <br><strong>Apache</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress" />
-      <br><strong>WordPress</strong>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## 📊 GitHub Statistics
 
