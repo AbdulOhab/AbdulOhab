@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const abdul = {
+const about = {
   name: "Md Abdul Ohab",
   location: "Bangladesh",
   role: "Full Stack Developer",
