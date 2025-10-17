@@ -9,26 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;Full+Stack+Developer;Always+learning+new+technologies;Building+amazing+web+experiences;Let's+create+something+awesome!" alt="Typing SVG" />
   
 </div>
-
-## 🧑‍💻 About Me
-
-```javascript
-const about = {
-  name: "Md Abdul Ohab",
-  location: "Bangladesh",
-  role: "Full Stack Developer",
-  languages: ["JavaScript", "Python", "PHP", "C++", "Java"],
-  technologies: {
-    frontend: ["React", "Vue", "HTML5", "CSS3", "TailwindCSS"],
-    backend: ["Node.js", "Laravel", "Flask", "Express"],
-    database: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Docker", "Git", "Linux"],
-  },
-  currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log() and I'm not ashamed! 😄",
-};
-```
-
 ## 📊 GitHub Statistics
 
 <div align="center">
