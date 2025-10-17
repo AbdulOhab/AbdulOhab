@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;Full+Stack+Developer;Always+learning+new+technologies;Building+amazing+web+experiences;Let's+create+something+awesome!" alt="Typing SVG" />
   
 </div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -32,9 +33,6 @@
 </div>
 
 <div align="center">
-  
-  ### 💭 *"Code is poetry when written with Comments"*
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
   
 </div>
