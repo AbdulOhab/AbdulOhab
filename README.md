@@ -1,35 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Md%20Abdul%20Ohab&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
-</div>
 
-<div align="center">
+<br>
 
-### Software Engineer | Problem Solver | Code Enthusiast
+# Md Abdul Ohab
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+universe!;Full+Stack+Developer;Always+learning+new+technologies;Building+amazing+web+experiences;Let's+create+something+awesome!" alt="Typing SVG" />
-  
-</div>
+**Software Engineer** &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Always Learning
 
-## 📊 GitHub Statistics
+<br>
 
+<a href="https://www.linkedin.com/in/md-abdul-ohab"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/AbdulOhab"><img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:abdulohab059@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://t.me/ab_wahab98"><img src="https://img.shields.io/badge/Telegram-24292f?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.facebook.com/abdul.ohab.059"><img src="https://img.shields.io/badge/Facebook-24292f?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulOhab&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<br><br>
 
-## 🌐 Connect With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbdulOhab&theme=react-dark&bg_color=00000000&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulOhab&theme=minimal&bg_color=00000000&hide_border=true&area=true" alt="Contribution graph" width="100%">
+</picture>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-ohab)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulOhab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulohab059@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ab_wahab98)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdul.ohab.059)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
-  
 </div>
